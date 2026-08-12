@@ -1,0 +1,8 @@
+title: Armando Vasquez
+description: Data Science Portfolio
+url: "https://armandohvasquez.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
