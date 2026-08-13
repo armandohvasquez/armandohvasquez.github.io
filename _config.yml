@@ -8,5 +8,10 @@ header_pages:
   - about.md
   - projects.md
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 plugins:
   - jekyll-feed
