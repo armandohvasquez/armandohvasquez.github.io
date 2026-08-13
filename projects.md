@@ -5,12 +5,10 @@ title: Projects
 
 # Projects
 
-Here are some of the projects I've worked on.
+## California Wildfire Forecast Prediction
 
-{% for project in site.projects %}
+A data science and machine learning project focused on understanding and forecasting wildfire activity across California using historical fire, weather, and geographic data.
 
-## [{{ project.title }}]({{ project.url | relative_url }})
+**Current stage:** Data preparation, exploratory analysis, and statistical modeling.
 
-{{ project.description }}
-
-{% endfor %}
+[View Project →](/projects/california-wildfire/)
