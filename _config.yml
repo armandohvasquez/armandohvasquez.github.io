@@ -4,5 +4,9 @@ url: "https://armandohvasquez.github.io"
 
 theme: minima
 
+header_pages:
+  - about.md
+  - projects.md
+
 plugins:
   - jekyll-feed
