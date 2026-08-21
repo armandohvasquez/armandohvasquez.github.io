@@ -108,7 +108,7 @@ I investigated wildfire activity from several perspectives.
 
 Weekly wildfire counts were analyzed to understand how wildfire activity changes over time.
 
-![Weekly California wildfire activity](../assets/images/wildfire-overview.png)
+![Weekly California wildfire activity](../assets/images/weekly-activity.png)
 
 ### Geographic Distribution
 
@@ -122,7 +122,7 @@ The analysis showed substantial geographic variation in wildfire activity across
 
 Monthly wildfire activity was analyzed to identify seasonal patterns.
 
-![Average weekly fires by month](../assets/images/wildfire-map.png)
+![Average weekly fires by month](../assets/images/seasonal-fires.png)
 
 The analysis showed that wildfire activity varies substantially throughout the year, with higher activity during warmer and drier periods.
 
@@ -139,7 +139,7 @@ These included:
 - Wind speed
 - Precipitation
 
-![Weather and wildfire relationships](../assets/images/wildfire-weather.png)
+![Weather and wildfire relationships](../assets/images/box-plot.png)
 
 Correlation analysis indicated that temperature had a positive relationship with wildfire counts, while humidity and precipitation showed negative relationships.
 
