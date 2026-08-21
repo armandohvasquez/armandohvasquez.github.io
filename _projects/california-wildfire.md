@@ -122,7 +122,7 @@ The analysis showed substantial geographic variation in wildfire activity across
 
 Monthly wildfire activity was analyzed to identify seasonal patterns.
 
-![Average weekly fires by month](../assets/images/wildfire-seasonality.png)
+![Average weekly fires by month](../assets/images/wildfire-map.png)
 
 The analysis showed that wildfire activity varies substantially throughout the year, with higher activity during warmer and drier periods.
 
