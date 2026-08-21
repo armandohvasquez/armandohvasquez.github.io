@@ -13,15 +13,9 @@ Welcome to my portfolio. I'm interested in data science, machine learning, stati
 
 ### DMD Disease Progression Modeling
 
-A data science project focused on modeling disease progression.
+A data science project focused on modeling wildfire activity.
 
 **Technologies:** Python, Pandas, NumPy, Machine Learning
-
-### Time Series Forecasting
-
-A project focused on analyzing and forecasting time-series data.
-
-**Technologies:** Python, Pandas, Statistics, Time Series
 
 ### More Projects Coming Soon
 
@@ -45,3 +39,5 @@ I'm a data science student interested in machine learning, statistics, and data-
 ## Contact
 
 [GitHub](https://github.com/armandohvasquez)
+armandovasquez0770@gmail.com
+
