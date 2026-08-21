@@ -39,5 +39,7 @@ I'm a data science student interested in machine learning, statistics, and data-
 ## Contact
 
 [GitHub](https://github.com/armandohvasquez)
-armandovasquez0770@gmail.com
+[Email](armandohvasquez0770@gmail.com)
+
+
 
