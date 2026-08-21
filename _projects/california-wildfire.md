@@ -208,7 +208,6 @@ The models were evaluated using:
 | Random Forest | 0.40 | **0.430** | 0.331 | **0.374** | 0.852 | 0.413 |
 | XGBoost | 0.55 | 0.286 | 0.331 | 0.307 | 0.817 | 0.317 |
 
-![Model comparison](../assets/images/model-comparison.png)
 
 ### Model Interpretation
 
