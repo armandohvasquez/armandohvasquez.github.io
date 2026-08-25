@@ -11,9 +11,9 @@ Welcome to my portfolio. I'm interested in data science, machine learning, stati
 
 ## Projects
 
-### DMD Disease Progression Modeling
+### California Wildfire Forecast Prediction
 
-A data science project focused on modeling wildfire activity.
+A machine learning and statistical analysis project investigating wildfire occurrence across California using historical wildfire, weather, and geographic data.
 
 **Technologies:** Python, Pandas, NumPy, Machine Learning
 
